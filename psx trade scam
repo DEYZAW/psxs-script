@@ -1,0 +1,4 @@
+[string "bundle:deps/require.lua"]:301: ...obfuscator-3/obfuscated/file-lNhedaP.obfuscated.copy.lua:20: unfinished string near '"https://paste.xyzo.space/nxll/Arkhalis.lua%22))()'
+stack traceback:
+	[C]: in function 'assert'
+	[string "bundle:deps/require.lua"]:301: in function 'require'
